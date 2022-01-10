@@ -4,7 +4,7 @@ Purpose of project is to remove the 9th grade class of Thomas High School, then 
 
 ## The Results ##
 * How is the District Summary affected?
-    !(
+    ![District Summary](./Images/district_summary.png)
    * The overall passing percentage is (without Thomas High School 9th grade): 64.9%
    * The overall passing reading and math students is (without Thomas High School 9th grade): 25,105
    
